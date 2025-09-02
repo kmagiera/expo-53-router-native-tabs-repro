@@ -8,8 +8,10 @@
     "scheme": "expo53",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "backgroundColor": "#ff0000",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.Expo53"
     },
     "android": {
       "adaptiveIcon": {
